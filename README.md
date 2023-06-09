@@ -1,3 +1,3 @@
-# LA Fitness app Rebuild
+# LA Fitness app rebuild
 
 
