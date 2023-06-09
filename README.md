@@ -8,7 +8,7 @@ The new design consists of 4 sections that encapsulate the main functionality of
 
 ## Account Screen
 
-![IMG_3681](https://github.com/xorizon/la_fitness_rebuild/assets/102320249/69288146-8c4d-46e5-9b18-b714a7d0da45)
+![IMG_3681](https://github.com/xorizon/la_fitness_rebuild/assets/102320249/69288146-8c4d-46e5-9b18-b714a7d0da45 =100x100)
 
 ![IMG_3682](https://github.com/xorizon/la_fitness_rebuild/assets/102320249/1a2041e4-565f-4f09-851c-7fbd0dbc2b1f)
 
