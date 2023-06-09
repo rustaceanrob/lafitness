@@ -46,10 +46,10 @@ const Profile = (props: Props) => {
                     <Text className="font-bold text-2xl">
                         Hello {props.name}
                     </Text>
-                    <View className="flex flex-row justify-center items-center">
+                    <TouchableOpacity className="flex flex-row justify-center items-center">
                         <Text className="pr-2 font-semibold">Messages</Text>
                         <Feather name="message-square" size={20} color="#ea580c"/>
-                    </View>
+                    </TouchableOpacity>
                 </View>
                 <View className="flex flex-row justify-between border border-neutral-300 rounded-md p-5 bg-white">
                     <Text className="">Membership Status</Text>

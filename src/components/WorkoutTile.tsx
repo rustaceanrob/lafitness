@@ -12,7 +12,7 @@ type Props = {
 }
 
 const win = Dimensions.get('window')
-const wid = win.width - 50
+const wid = win.width * 0.89
 
 const WorkoutTile = (props: Props) => {
 

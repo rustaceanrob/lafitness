@@ -4,8 +4,11 @@ import Profile from "../screens/Profile";
 import React from 'react'
 import WorkoutStack from "./WorkoutStack";
 import Clubs from "../screens/Clubs";
+import Resources from "../screens/Resources";
 
 const Tab = createBottomTabNavigator();
+
+
 const UserStack = () => {
   return (
     <Tab.Navigator screenOptions={{
@@ -52,7 +55,7 @@ const UserStack = () => {
               />
             ),
           }}>
-            {() => <></>}
+            {() => <Resources/>}
       </Tab.Screen>
       <Tab.Screen name="Membership"
             options={{
