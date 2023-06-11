@@ -4,7 +4,7 @@ A short look at the LA fitness app along with their 2 star review on the Apple a
 
 ## Screens
 
-The new design consists of 4 sections that encapsulate the main functionality of their app. When the app is opened, the QR for the membership can be scanned immediately: something the current app suffers immensely with is loading the QR. Guests is the only other feature I have used, so that is immediately visible as well. The locations page is something I would like to see in production as well.
+The new design consists of 4 sections that encapsulate the main functionality of their app. When the app is opened, the QR for the membership can be scanned immediately: something the current app suffers immensely with is loading the QR. Guests is the only other feature I have used, so that is immediately visible as well. The locations page is something I would like to see in production too.
 
 ## Account Screen
 
